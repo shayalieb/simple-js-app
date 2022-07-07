@@ -1,1 +1,1 @@
-onclick showAlert('You clicked the button!');
+alert('Hello World');
