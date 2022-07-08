@@ -1,3 +1,6 @@
+//Click alert
+alert('Hello world!')
+
 //propor form from top to button for JS to proporly rendor
 let myName = 'Bob';
 document.write(myName);
@@ -12,3 +15,8 @@ document.write(simpleAddition);
 let size = 100;
 let doubleSize = size * 2;
 document.write(doubleSize);
+
+//Personal variables 
+let myFavoriteFood = 'I love pizza!'
+document.write(myFavoriteFood);
+ 
